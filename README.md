@@ -22,7 +22,7 @@ Il numero minimo è di 4 giocatori presenti dall'inizio sessione, con un cut off
 Ormai concluso l'arco narrativo iniziale, le prossime avventure saranno per lo più da singola sessione.<br/>
 Il format può essere inquadrato a metà tra un *A-team* e un *Monster of the Week*: l'ambientazione **non** sarà solo e necessariamente il classico fantasy rinascimentale stile Forgotten Realms e affini.<br/>
 Ognuno è libero di portare dei suoi input e spunti, sta al master valutare se e come sfruttarli.<br/>
-Se qualcuno vuole andare in cabina di regia e fare da master c'è la possibilità, comunichiamocelo un paio di giorni prima della sessione prevista per non far sprecare tempo a Carlo che è stato finora il master *resident*.<br/> 
+Se qualcuno vuole andare in cabina di regia e fare da master c'è la possibilità, comunichiamocelo un paio di giorni prima della sessione prevista per non far sprecare tempo a Carlo che è il master *resident*.<br/> 
 
 ### PC ed equip
 
