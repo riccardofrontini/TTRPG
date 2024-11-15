@@ -4,9 +4,9 @@
 
 ### Raccolte manuali e materiali
 
-[Google Drive](https://drive.google.com/drive/folders/0B4wy0PoJ9jd6R0hwclZuaVNUU2c?resourcekey=0-LrE-MWI-5H8sQFPCt8wpPg): molto materiale, molto esteso e variegato, qualità leggermente inferiore:
+[Google Drive](https://drive.google.com/drive/folders/0B4wy0PoJ9jd6R0hwclZuaVNUU2c?resourcekey=0-LrE-MWI-5H8sQFPCt8wpPg): molto materiale, molto esteso e variegato, qualità leggermente inferiore.
 <br/>
-[Repository GitHub](https://github.com/EllatharTheHalfling/DnD-Books/tree/master/5e/Books): meno materiale, qualità leggermente migliore:
+[Repository GitHub](https://github.com/EllatharTheHalfling/DnD-Books/tree/master/5e/Books): meno materiale, qualità leggermente migliore.
 <br/>
 
 
@@ -27,5 +27,6 @@ Se qualcuno vuole andare in cabina di regia e fare da master c'è la possibilit�
 ### PC ed equip
 
 Molti dei giocatori hanno già un PC: in caso si voglia effettuare un cambio/aggiunta per sperimentare con un PC differente, il nuovo entrerà al livello del PC *uscente*, il quale **NON ACCUMULA LIVELLI STANDO FERMO**.<br/>
-I nuovi giocatori entreranno con un PC di livello pari a quello degli altri giocatori. Se i livelli sono diversi, si entra a una media degli altri livelli, e in ogni caso la parolafinale spetta al master.
-Come linea guida, il livello degli item che possiamo "aggiungere" di volta in volta è *Uncommon* ed è comunque soggetto a condivisione col master: l'allineamento avviene o per vie dirette su WhatsApp (magari in privato, a meno che non sia di importanza per gil altri presenti), o tra le 19:00 e le 19:30 intanto che si mangia/cazzeggia/si stappano le prime<br/>
+I nuovi giocatori entreranno con un PC di livello pari a quello degli altri giocatori. Se i livelli sono diversi, si entra a una media dei livelli degli altri giocatori, e in ogni caso la parola finale spetta al master.<br/>
+<br/>
+Come linea guida, il livello degli item che possiamo "aggiungere" di volta in volta è *Uncommon* ed è comunque soggetto a condivisione col master: l'allineamento avviene o per vie dirette su WhatsApp (magari in privato, a meno che non sia di importanza per gil altri presenti), o tra le 19:00 e le 19:30 intanto che si mangia/cazzeggia/si stappano le prime birrette.<br/>
