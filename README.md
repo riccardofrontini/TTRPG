@@ -8,6 +8,8 @@
 <br/>
 [Repository GitHub](https://github.com/EllatharTheHalfling/DnD-Books/tree/master/5e/Books): meno materiale, qualità leggermente migliore.
 <br/>
+[System Reference Document] (https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf): condensato delle regole, senza i fronzoli della lore etc. *Non* sono comunque presenti tutti gli elementi dei vari manuali.
+<br/>
 
 
 ### Appuntamenti di gioco
