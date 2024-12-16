@@ -8,7 +8,11 @@
 <br/>
 [Repository GitHub](https://github.com/EllatharTheHalfling/DnD-Books/tree/master/5e/Books): meno materiale, qualità leggermente migliore.
 <br/>
-[System Reference Document](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf): condensato delle regole, senza i fronzoli della lore etc. *Non* sono comunque presenti tutti gli elementi dei vari manuali.
+[System Reference Document WEB BASED](https://www.5esrd.com/): versione web-based dei manuali, piuttosto completa anche con lore, descrizioni eccetera. Molto completo.
+<br/>
+[System Reference Document PDF](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf): condensato delle regole, senza i fronzoli della lore etc. *Non* sono comunque presenti tutti gli elementi dei vari manuali.
+<br/>
+[Hardcodex: Spellbook cards e altro](https://hardcodex.ru/): Buone risorse, anche per DM. Molto utile lo Spellbook Cards generator IMO, per poter generare dei riferimenti rapidi ai propri spell (particolarmente indicato per le spellcasting classes). Include Xanathar, Sword Coast, Tasha's Cauldron e Fizban's Treasury of Dragons. Purtroppo non genera PDF, ma si può usare il "Print to PDF" dal browser (o generarli in CSV, se proprio ci si vuole sbizzarrire).
 <br/>
 
 
