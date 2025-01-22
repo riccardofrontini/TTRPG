@@ -14,6 +14,8 @@
 <br/>
 [Hardcodex: Spellbook cards e altro](https://hardcodex.ru/): Buone risorse, anche per DM. Molto utile lo Spellbook Cards generator IMO, per poter generare dei riferimenti rapidi ai propri spell (particolarmente indicato per le spellcasting classes). Include Xanathar, Sword Coast, Tasha's Cauldron e Fizban's Treasury of Dragons. Purtroppo non genera PDF, ma si può usare il "Print to PDF" dal browser (o generarli in CSV, se proprio ci si vuole sbizzarrire).
 <br/>
+[APP: Compendium completo per Fight Club 5](https://github.com/vidalvanbergen/FightClub5eXML/releases): Qui trovate Compendium completi totali globali per l'app Fight Club 5, con tutti i manuali WotC 2014 E 2024 (aka 5.5), Partnered, 3rd Party, Mercer Brew e chi più ne ha più ne metta. Se lo scaricate in formato zip, **unzippatelo prima di procedere**. L'app è disponibile per Apple e Android: sul ribbon superiore cliccare l'icona del libro che porta al Compendium, da qui l'icona del +, nel menù a tendina selezionare Import, scegliere il Compendium scaricato, l'app avviserà di elementi duplicati, scegliere "overwrite". Finito, avete accesso a tutto il materiale.
+<br/>
 
 
 ### Appuntamenti di gioco
