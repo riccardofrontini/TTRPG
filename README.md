@@ -38,3 +38,7 @@ Molti dei giocatori hanno già un PC: in caso si voglia effettuare un cambio/agg
 I nuovi giocatori entreranno con un PC di livello pari a quello degli altri giocatori. Se i livelli sono diversi, si entra a una media dei livelli degli altri giocatori, e in ogni caso la parola finale spetta al master.  
   
 Come linea guida, il livello degli item che possiamo "aggiungere" di volta in volta è *Uncommon* ed è comunque soggetto a condivisione col master: l'allineamento avviene o per vie dirette su WhatsApp (magari in privato, a meno che non sia di importanza per gil altri presenti), o tra le 19:00 e le 19:30 intanto che si mangia/cazzeggia/si stappano le prime birrette.  
+
+### Session log
+
+In un documento separato stiamo preparando il [Session log](./session_log.md). Ogni contributo, correzione, integrazione, derivazione, serie di Taylor (purché non Swift) è ben accetta!
