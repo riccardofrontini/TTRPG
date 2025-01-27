@@ -124,3 +124,10 @@ Pim pum pam si fanno fuori i canazzi, col consueto savoir faire. Veniamo cortese
 Un pianeta minacciato da un asteroide, e un mago che sta sacrificando se' stesso per tenere in piedi un loop temporale che preservi il pianeta dalla distruzione definitiva.  
 Dei cospiratori che stanno sabotando gli scudi per fare sì che il pianeta venga distrutto.  
 Quasi che si fanno catturare e spifferano tutto, ma per fortuna vengono fatti secchi prima che possano parlare. Indovinate un po' da chi? Da quello che si è intascato un bambino. Di nuovo.  
+
+
+### Pacific rimming
+
+Nessuno s'accolla un chiringuito in riva alla magna grecia. E di Hydra in Hydra, avoja se magna sta grecia. Nessuno o no.  
+Scopriamo un Kraken a guardia del passaggio dimensionale tra mondi acquatici. Imburra che ti ri-imburra, crolla scogliere che ti ri-crolli scogliere, anche il Kraken si convince a calmarsi e godersi la vita nei caldi mari del sud.
+Alla fine il rimming trionfa. 
