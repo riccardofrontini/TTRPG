@@ -131,3 +131,25 @@ Quasi che si fanno catturare e spifferano tutto, ma per fortuna vengono fatti se
 Nessuno s'accolla un chiringuito in riva alla magna grecia. E di Hydra in Hydra, avoja se magna sta grecia. Nessuno o no.  
 Scopriamo un Kraken a guardia del passaggio dimensionale tra mondi acquatici. Imburra che ti ri-imburra, crolla scogliere che ti ri-crolli scogliere, anche il Kraken si convince a calmarsi e godersi la vita nei caldi mari del sud.
 Alla fine il rimming trionfa. 
+
+
+### Vacanze di Aisuindàle
+
+Massimo Koboldi, seguito dalle sue irrefrenabili e taumaturgiche risate, e accompagnato dalla sciccosissima dama Ottone, all'anagrafe Erminia prego, ci guida (o meglio, ci sbologna) in questa avventura tra i ghiacci.  
+Il destinatario di un bel carico di sidro (delicatissssimo), cugino Carlton che-cugino-non-è, è scomparso come tanti altri ometti di Termalaine. In concomitanza a eventi atmosferici catastrofici, sarà sto Faerûn warming.  
+Ne parliamo col druido Vernacus, più interessato a giocare a scacchi con le foche, ma che almeno ha intuito da dove provengono queste repentine tempeste.  
+Si giunge a un'isola fortificata, presidiata da fauna appisolata, evitiamo la tragedia annunciata, l'isola viene evacuata, la gente scongelata, alla fine l'amore trionfa.  
+Ma la strega? Boh vabé ci penserà qualcun altro, mica possiamo fare tutto noi.
+
+
+### Hanno stati i zinchiri
+
+Torniamo a riferire da Clarens, sempre più missing-in-action, e sua moglie Gamelia. Tesoro mi si è ristretto il paladino, e già che c'ero mi sono persa un'altra figlia.  
+*Signora lei è una donna molto, molto distratta (ma la gente su sto continente non ha di meglio da fare che farsi rapire?).*  
+Il nano-in-bolla, perentorio tanto quanto sibillino, ci indica la strada mentre, con il solito savoir faire, ci facciamo largo a colpi di menefreghismo e legnate.  
+Una befana mostra il passato presente e futuro al buon monaco, gli altri gentilmente glissano. Un'altra bambina viene trascinata nel folto del bosco, seccane 3, seccane altri 4, si giunge alla spiaggia dove i pirati stanno attraccando.  
+Il paladino di scorta ha qualcosa di strano al collo e comunque nel dubbio è un tirapiedi. Secco anche lui, tanto che aspettativa di vita vuoi che abbia un eroinomane?  
+La befana si palesa nel suo ruolo di strega zingara, altre due saltano fuori camuffate da piratesse, sono tenaci ma pigliano inesorabilmente mazzate.  
+Il duergar torna della sua taglia usuale con un momento tra Ladyhawk e Sailor Moon. Visto il passato da pirata, la regia dice Sailor Mona.
+Vabé noi la bambina l'abbiamo ripescata, sebbene traumatizzandola a vita, ma "qualquadra non cosa".  
+
