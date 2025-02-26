@@ -144,12 +144,21 @@ Ma la strega? Boh vabé ci penserà qualcun altro, mica possiamo fare tutto noi.
 
 ### Hanno stati i zinchiri
 
-Torniamo a riferire da Clarens, sempre più missing-in-action, e sua moglie Gamelia. Tesoro mi si è ristretto il paladino, e già che c'ero mi sono persa un'altra figlia.  
-*Signora lei è una donna molto, molto distratta (ma la gente su sto continente non ha di meglio da fare che farsi rapire?).*  
+Mentre torniamo a riferire da Clarens, sempre più missing-in-action, e sua moglie Ghiandina, ci si restringe il paladino, forse abbiamo sbagliato programma nella Finish Powerball.
+Ohibò s'è persa un'altra persona, stavolta la figlioletta Gamelia. *Signora lei è una donna molto, molto distratta.* (ma la gente su sto continente non ha di meglio da fare che farsi rapire?)  
 Il nano-in-bolla, perentorio tanto quanto sibillino, ci indica la strada mentre, con il solito savoir faire, ci facciamo largo a colpi di menefreghismo e legnate.  
 Una befana mostra il passato presente e futuro al buon monaco, gli altri gentilmente glissano. Un'altra bambina viene trascinata nel folto del bosco, seccane 3, seccane altri 4, si giunge alla spiaggia dove i pirati stanno attraccando.  
 Il paladino di scorta ha qualcosa di strano al collo e comunque nel dubbio è un tirapiedi. Secco anche lui, tanto che aspettativa di vita vuoi che abbia un eroinomane?  
 La befana si palesa nel suo ruolo di strega zingara, altre due saltano fuori camuffate da piratesse, sono tenaci ma pigliano inesorabilmente mazzate.  
 Il duergar torna della sua taglia usuale con un momento tra Ladyhawk e Sailor Moon. Visto il passato da pirata, la regia dice Sailor Mona.
 Vabé noi la bambina l'abbiamo ripescata, sebbene traumatizzandola a vita, ma "qualquadra non cosa".  
+La chiosa è la festa del misunderstandment; maledetto loot, per la gioia di quello che era nella bolla di vetro.
 
+### Last train to nowhere
+
+Un treno che è una polveriera: in un mondo che celebra il lustro dalla risoluzione di un conflitto durato centovent'anni, le tre fazioni ancora non si vedono di buon occhio, e l'incidente diplomatico è dietro l'angolo.  
+Warthog caciaroni, Kenku spocchiosi e Robot inabili a interagire.  
+Mentre il nostro paladino fa la piramide zombie e incanta l'uditorio, due finti Warthog e un monaco finto mago pensano bene che sia giusto provare ad agitare le acque per primi, con grandi prove attoriali della mossa dell'opossum e resurrezioni improbabili e improvvisate.  
+Poi si bussa a una porta, risponde un industriale indispettito e scostante, "Scusi lei è un attentatore?"  
+![Le indagini sottotraccia](./img/salvini_citofono.jpg "Le indagini sottotraccia")  
+E così parte la proverbiale giostra di schiaffoni, il treno viene fermato a un passo dal baratro, e vissero tutti demilitarizzati e contenti.
