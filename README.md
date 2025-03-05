@@ -20,8 +20,11 @@
 
 ### Appuntamenti di gioco
 
-L'appuntamento è fissato per mercoledì dalle 19:00 in avanti.  
-L'inizio sessione è fissato per le 19:30 : chi non fosse in grado di rispettarlo lo dica, per poter calcolare un quorum attendibile.  
+L'appuntamento è fissato per mercoledì.  
+Apertura cancelli, cibo birra e cazzeggio: 19:30.  
+Fase pregame, domande, livelli, spese, crafting: 20:15. **Vedi sezione "PC ed equip".**  
+Inizio sessione: 21:00.  
+Chi non fosse in grado di rispettarlo lo dica, per poter calcolare un quorum attendibile.  
 Giocatori già considerati scorporati dal calcolo del quorum: Sz, J.  
 Il numero minimo è di 4 giocatori presenti dall'inizio sessione, con un cut off per comunicare la presenza alle 16:00. Se entro quell'ora non c'è il quorum, la sessione salta.  
 
@@ -37,7 +40,7 @@ Se qualcuno vuole andare in cabina di regia e fare da master c'è la possibilit�
 Molti dei giocatori hanno già un PC: in caso si voglia effettuare un cambio/aggiunta per sperimentare con un PC differente, il nuovo entrerà al livello del PC *uscente*, il quale **NON ACCUMULA LIVELLI STANDO FERMO**.  
 I nuovi giocatori entreranno con un PC di livello pari a quello degli altri giocatori. Se i livelli sono diversi, si entra a una media dei livelli degli altri giocatori, e in ogni caso la parola finale spetta al master.  
   
-Come linea guida, il livello degli item che possiamo "aggiungere" di volta in volta è *Uncommon* ed è comunque soggetto a condivisione col master: l'allineamento avviene o per vie dirette su WhatsApp (magari in privato, a meno che non sia di importanza per gil altri presenti), o tra le 19:00 e le 19:30 intanto che si mangia/cazzeggia/si stappano le prime birrette.  
+Come linea guida, il livello degli item che possiamo acquistare di volta in volta è *Uncommon* ed è comunque soggetto a condivisione col master: l'allineamento avviene o per vie dirette su WhatsApp (magari in privato, a meno che non sia di importanza per gli altri giocatori), o in presenza tra le 20:15 e le 21:00.  
 
 ### Session log
 
