@@ -162,3 +162,11 @@ Mentre il nostro paladino fa la piramide zombie e incanta l'uditorio, due finti 
 Poi si bussa a una porta, risponde un industriale indispettito e scostante, "Scusi lei è un attentatore?"  
 ![Le indagini sottotraccia](./img/salvini_citofono.jpg "Le indagini sottotraccia")  
 E così parte la proverbiale giostra di schiaffoni, il treno viene fermato a un passo dal baratro, e vissero tutti demilitarizzati e contenti.
+
+
+### Mid-term evaluations
+
+"Mai accettare cibo dagli sconosciuti!"  
+Ai nostri evidentemente non è mai stato detto, o preferiscono non curarsene, e per tutta risposta si ritrovano in hangover peso dentro a un dungeon, senza poteri, senza equip e senza HP.
+Ma alla fine, scherzone, era solo una sessione di valutazione andata un po' diversamente dal previsto!
+Elantinho recupera la situazione e assicura indagini e supporto, ma intanto il già noto angelo caduto Gideon porta avanti le sue mosse...
